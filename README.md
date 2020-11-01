@@ -1,6 +1,6 @@
 # Dracula 2010
 
-You wave a bat, that's pretty cool
+You wave to a bat, that's pretty cool
 
 Based on multiple GBdev tutorials:
 [https://www.opusgames.com/games/GBDev/GBDev.html](https://www.opusgames.com/games/GBDev/GBDev.html) (This one mainly, most of the code is from that)
